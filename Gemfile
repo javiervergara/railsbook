@@ -32,6 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #devise
 gem 'devise'
 gem 'protected_attributes'
+gem 'simple_form'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
